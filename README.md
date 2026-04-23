@@ -123,8 +123,3 @@ Predicted Fruit: Apple
 Swastik Garg  
 B.Tech CSE  
 SRM Institute of Science and Technology  
-<<<<<<< HEAD
-GitHub: https://github.com/swastikgarg11
-=======
-GitHub: https://github.com/swastikgarg11
->>>>>>> de5bd802d137456768cf45f5e24916e6a596ee97
